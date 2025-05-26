@@ -50,6 +50,11 @@ Located inside [`linux-Scripts/`](./linux-Scripts/), this simulates a basic Linu
 - `scripts/deploy.sh` → Simulated deploy logic
 - Uses `logs/`, `config/`, and `reports/` as input/output directories
 
+### 🗃️ Linux Scripts Project
+Located inside [`linux-Scripts/`](./linux-Scripts/), this simulates a basic Linux system automation setup.
+
+![Backup Overview](screenshots/backup-overview.png)
+
 ---
 
 ## 📸 Screenshot Previews
