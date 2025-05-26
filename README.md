@@ -87,4 +87,4 @@ Screenshot-based README for visual walkthrough
 Demonstrates automation logic for real-world DevOps scenarios
 
 🤝 Let's Connect
-Feel free to explore this repo and ask me questions in interviews! I'm passionate about automation, scripting, and building real-world DevOps solutions.
+Feel free to explore this repo! I'm passionate about automation, scripting, and building real-world DevOps solutions.
