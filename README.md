@@ -3,8 +3,7 @@
 This project showcases a hands-on Linux-based automation setup built using shell scripting. It includes two key components:
 
 1. ✅ A **DevOps Tool Auto-Installer** script to set up essential packages.
-2. 🛠️ A structured **Linux scripting project** demonstrating backup, logging, reporting, and config management.
-
+2. 🛠️ A structured **Linux scripting project** demonstrating backup, logging, reporting, and config management .
 ---
 
 ## 📁 Folder Structure
@@ -43,15 +42,12 @@ This shell script:
 
 ## 🗃️ Linux Scripts Project
 
-Located inside [`linux-Scripts/`](./linux-Scripts/), this simulates a basic Linux system automation setup.
+Located inside [Linux Scripts Project](./linux-Scripts/), this simulates a basic Linux system automation setup.
 
 ### Main Scripts
 - `scripts/backup.sh` → Compress and archive files
 - `scripts/deploy.sh` → Simulated deploy logic
 - Uses `logs/`, `config/`, and `reports/` as input/output directories
-
-### 🗃️ Linux Scripts Project
-Located inside [`linux-Scripts/`](./linux-Scripts/), this simulates a basic Linux system automation setup.
 
 ![Backup Overview](screenshots/backup-overview.png)
 
@@ -63,7 +59,7 @@ Located inside [`linux-Scripts/`](./linux-Scripts/), this simulates a basic Linu
 ![Folder Structure](screenshots/folder-structure.png)
 
 ### 🛠️ DevOps Tool Setup Overview
-![DevOps Setup](screenshots/devops-tool-setup.png)
+![DevOps Setup](screenshots/devops-toolsetup.png)
 
 ---
 
