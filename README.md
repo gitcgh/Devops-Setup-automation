@@ -42,7 +42,7 @@ This shell script:
 
 ## 🗃️ Linux Scripts Project
 
-Located inside [Linux Scripts Project](./linux-Scripts/), this simulates a basic Linux system automation setup.
+Located inside [linux-Scripts](./linux-Scripts/)(./linux-Scripts/), this simulates a basic Linux system automation setup.
 
 ### Main Scripts
 - `scripts/backup.sh` → Compress and archive files
